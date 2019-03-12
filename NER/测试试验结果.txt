@@ -1,0 +1,6 @@
+correctly_recognized_entity: 576
+recognized_entity: 691
+sample_entity: 700
+Average Precision:  0.8335745296671491
+Average Recall:  0.8228571428571428
+Average F1:  0.8281811646297628
